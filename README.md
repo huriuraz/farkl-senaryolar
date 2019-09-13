@@ -1,2 +1,2 @@
-# farkl-senaryolar
+# farklı-senaryolar
 senaryo oluşturma 
