@@ -1,0 +1,2 @@
+# farkl-senaryolar
+senaryo oluşturma 
